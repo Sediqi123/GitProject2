@@ -16,4 +16,9 @@ public class Test1 {
 		System.out.println("Print information");
 	}
 
+	public static void add(int a, int b){
+
+		System.out.println(a+b);
+	
+	}
 }

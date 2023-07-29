@@ -2,11 +2,13 @@ package git.test;
 
 public class Test1 {
 	
+	int age;
+	
 	public static void main(String[] args) {
 		
 		System.out.println("This is my first GitHub test");
 		
-		
+		String name = "Latif";
 		
 		
 	}
